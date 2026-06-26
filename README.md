@@ -35,7 +35,7 @@ This repository serves as both:
 
 ### 1D Problems
 
-* [ ] Step 1 — Linear Convection
+* [X] Step 1 — Linear Convection
 * [ ] Step 2 — Nonlinear Convection
 * [ ] CFL Condition
 * [ ] Step 3 — Diffusion
