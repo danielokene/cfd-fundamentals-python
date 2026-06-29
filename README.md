@@ -38,8 +38,8 @@ This repository serves as both:
 * [X] Step 1 — Linear Convection
 * [X] Step 2 — Nonlinear Convection
 * [X] CFL Condition
-* [ ] Step 3 — Diffusion
-* [ ] Step 4 — Burgers' Equation
+* [X] Step 3 — Diffusion
+* [X] Step 4 — Burgers' Equation
 
 ### 2D Problems
 
