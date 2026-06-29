@@ -43,7 +43,7 @@ This repository serves as both:
 
 ### 2D Problems
 
-* [ ] Step 5 — Linear Convection
+* [X] Step 5 — Linear Convection
 * [ ] Step 6 — Nonlinear Convection
 * [ ] Step 7 — Diffusion
 * [ ] Step 8 — Burgers' Equation
