@@ -46,7 +46,7 @@ This repository serves as both:
 * [X] Step 5 — Linear Convection
 * [X] Step 6 — Nonlinear Convection
 * [X] Step 7 — Diffusion
-* [ ] Step 8 — Burgers' Equation
+* [X] Step 8 — Burgers' Equation
 
 ### Elliptic PDEs
 
