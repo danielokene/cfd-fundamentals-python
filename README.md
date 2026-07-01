@@ -50,7 +50,7 @@ This repository serves as both:
 
 ### Elliptic PDEs
 
-* [ ] Step 9 — Laplace Equation
+* [X] Step 9 — Laplace Equation
 * [ ] Step 10 — Poisson Equation
 
 ### Navier–Stokes
